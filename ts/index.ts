@@ -1,4 +1,4 @@
-const BACKEND_ROOT_URL = 'http://localhost:3001'
+const BACKEND_ROOT_URL = 'https://todo-backend-m5fp.onrender.com'
 import { Task } from "./class/Task.js"
 import { Todos } from "./class/Todos.js"
 
